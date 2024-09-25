@@ -3,14 +3,7 @@
 - [X] WPF Forms
 - [X] Automatic Starting when you start typing
 - [X] Ends when you successfully complete the Text.
-
-
-Future Work
-- [ ] Create more modular UI
-- [ ] Add MVVM Design Pattern
-- [ ] Create more abstractions
-- [ ] Create more pages and Detailed Reports.
-- [ ] Add Database for every user to show their records.
+- [X] Add MVVM Design Pattern
 
 
 
